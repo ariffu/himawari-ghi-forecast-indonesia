@@ -1,0 +1,22 @@
+# Reproducible environment for himawari-ghi-forecast-indonesia v0.1.0.
+# Versions are those of the environment that ran manuscript version 6 (database 6.10), 2026-11-08/09.
+name: ghi-benchmark-6sites
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14
+  - pip
+  - pip:
+      - duckdb==1.5.5
+      - lightgbm==4.7.0
+      - catboost==1.2.10
+      - xgboost==3.4.1
+      - torch==2.13.0        # CPU build was used
+      - matplotlib==3.11.1
+      - numpy==2.5.1
+      - pandas==3.0.5
+      - scikit-learn==1.9.0
+      - scipy==1.18.0
+      - pvlib==0.15.2
+      - pyarrow==26.0.0      # pandas reads the database (Parquet)
+      # shap is NOT required: SHAP values are computed with LightGBM pred_contrib.

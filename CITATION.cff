@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: >-
+  If you use these scripts or the per-site results they contain, please
+  cite them using the metadata below. A citation for the accompanying
+  journal paper will be added here once it is published.
+type: software
+title: >-
+  himawari-ghi-forecast-indonesia: Hour-ahead GHI forecasting benchmark for
+  six humid tropical Indonesian stations, with Himawari-8/9 cloud retrievals
+  (Banten, Bengkulu, Jambi, Yogyakarta, West Kalimantan, Central Java)
+authors:
+  - family-names: Ariffudin
+    affiliation: >-
+      Department of Physics, Faculty of Mathematics and Natural Sciences,
+      Universitas Indonesia, Depok, Indonesia; Agency for Meteorology,
+      Climatology, and Geophysics (BMKG), Jakarta, Indonesia
+    orcid: "https://orcid.org/0009-0008-3244-6054"
+  - given-names: Ardhasena
+    family-names: Sopaheluwakan
+    affiliation: >-
+      Agency for Meteorology, Climatology, and Geophysics (BMKG),
+      Jakarta, Indonesia
+    orcid: "https://orcid.org/0000-0002-4532-854X"
+  - given-names: Arief
+    family-names: Sudarmaji
+    affiliation: >-
+      Department of Physics, Faculty of Mathematics and Natural Sciences,
+      Universitas Indonesia, Depok, Indonesia
+    orcid: "https://orcid.org/0000-0002-0086-6758"
+  - given-names: Supriyanto Ardjo
+    family-names: Pawiro
+    affiliation: >-
+      Department of Physics, Faculty of Mathematics and Natural Sciences,
+      Universitas Indonesia, Depok, Indonesia
+    orcid: "https://orcid.org/0000-0002-0028-1442"
+version: 0.1.0
+date-released: "2026-11-17"
+url: "https://github.com/ariffu/himawari-ghi-forecast-indonesia"
+repository-code: "https://github.com/ariffu/himawari-ghi-forecast-indonesia"
+license: CC-BY-4.0
+keywords:
+  - global horizontal irradiance
+  - solar forecasting
+  - hour-ahead forecasting
+  - Himawari-8/9 cloud properties
+  - humid tropics
+  - Maritime Continent
+  - Indonesia
+  - machine learning
+  - source ablation
+  - value of information
+  - retrieval latency
