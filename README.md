@@ -1,5 +1,7 @@
 # Hour-ahead GHI forecasting in Indonesia with Himawari-8/9 cloud retrievals
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24316670.svg)](https://doi.org/10.5281/zenodo.24316670)
+
 Analysis code and derived per-site results supporting the manuscript:
 
 > **Improved Hour-Ahead Solar Irradiance Forecasts in Indonesia Based on Himawari-8/9 Cloud Retrievals.**

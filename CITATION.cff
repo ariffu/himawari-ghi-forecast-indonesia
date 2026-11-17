@@ -35,6 +35,7 @@ authors:
     orcid: "https://orcid.org/0000-0002-0028-1442"
 version: 0.1.0
 date-released: "2026-11-17"
+doi: 10.5281/zenodo.24316671
 url: "https://github.com/ariffu/himawari-ghi-forecast-indonesia"
 repository-code: "https://github.com/ariffu/himawari-ghi-forecast-indonesia"
 license: CC-BY-4.0
